@@ -28,6 +28,7 @@ def get_filters():
     print('What city would you like to explore? (Chicago, New York City, Washington)')
     #gets user input for city
     city = input('City Name: ').lower()
+    #uses if and else to account for user errors
     if city in CITY_DATA:
          print('You have choosen: ' + city)
     else:
