@@ -11,4 +11,4 @@ Final Project for Udacity Git Course including python bikeshare code
 bikeshare.py, .gitignore/chicago.csv, .gitignore/new_york_city.csv, .gitignore/washington.csv
 
 ###Credits
-Udacity, https://github.com/udacity/pdsnd_github.git 
+Udacity, https://github.com/udacity/pdsnd_github.git, https://github.github.com/training-kit/downloads/github-git-cheat-sheet/
