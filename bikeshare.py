@@ -28,6 +28,7 @@ def get_filters():
     print('What city would you like to explore? (Chicago, New York City, Washington)')
     #gets user input for city
     city = input('City Name: ').lower()
+    #uses if and else to account for user errors
     if city in CITY_DATA:
          print('You have choosen: ' + city)
     else:
@@ -38,7 +39,7 @@ def get_filters():
 
     # TO DO: get user input for month (all, january, february, ... , june)
     print('What month would you like to pull data from? (January, February, March, April, May, June, or All)')
-   
+   #uses if and else to account for user error
     month = input('Month: ').lower()
     if month in MONTH_DATA:
         print('You have selected: ' + month)
