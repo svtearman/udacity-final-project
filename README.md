@@ -5,7 +5,7 @@
 udacity-final-project
 
 ### Description
-Final Project for Udacity Git Course
+Final Project for Udacity Git Course including python bikeshare code
 
 ###Files Used
 bikeshare.py, .gitignore/chicago.csv, .gitignore/new_york_city.csv, .gitignore/washington.csv
